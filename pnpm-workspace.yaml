@@ -1,0 +1,9 @@
+allowBuilds:
+  '@clerk/shared': false
+  '@prisma/engines': false
+  esbuild: false
+  inngest-cli: false
+  prisma: false
+  protobufjs: false
+  sharp: false
+  unrs-resolver: false
